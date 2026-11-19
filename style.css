@@ -3,6 +3,8 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    scrollbar-width: thin;
+    scrollbar-color: #f3f4f6  #030013;
 }
 
 html {
@@ -151,7 +153,7 @@ button:hover {
 }
 
 .card {
-    width: 600px;
+    width: 30%;
     padding: 35px 0px 35px 25px;
 
     h3 {
